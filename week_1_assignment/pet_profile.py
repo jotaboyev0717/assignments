@@ -1,0 +1,10 @@
+a = input("Enter pet's name: ")
+b = input("How old are you? ")
+c = input("What is your favourite toy? ")
+d = input("Pls address? ")
+
+print('ADOPT me')
+print("Hi, my name is " + a + "!")
+print("My favorite toy is a " + c)
+print("Come meet me today at the " + d)
+print("Adoption ID: " + a, + c, + d,)
