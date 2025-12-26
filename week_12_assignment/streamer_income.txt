@@ -1,0 +1,7 @@
+PixelPlay,Gaming,800,500
+ChefAnna,Cooking,1200,1000
+GuitarGuy,Music,500,200
+SpeedRun,Gaming,1500,1000
+Broken,Row,No,Cash
+TastyTreats,Cooking,300,100
+ProGamer,Gaming,2000,3000
